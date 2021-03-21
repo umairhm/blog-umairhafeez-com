@@ -36,7 +36,7 @@ Only dive deep into the core role requirements or when they speak really high ab
 
 For instance, if you are looking for an Angular developer, most of your interview time should be spent on topics related to Angular, and then HTML, CSS and other related stuff.
 
-Or, if they express that they are really expert in something, and you have also goods knowledge of that topic, you can dig deeper to see if they really know their strengths or not. 
+Or, if they express that they are really expert in something, and you have also good knowledge of that topic, you can dig deeper to see if they really know their strengths or not. 
 
 #### Timebox
 Don't forget that you have limited time and you have to cover it all, and leave time for them to ask any questions they may have.
