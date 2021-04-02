@@ -1,4 +1,4 @@
-## Usage of `alt` attribute and text descriptions when using <img> elements
+## Accessibility: Usage of `alt` attribute and text descriptions when using <img> elements
 
 A few days ago, I was reading some accessibility guidelines regarding the usage of **images** in web applications, and I learned a few interesting things which I wanted to share with all of you.
 
