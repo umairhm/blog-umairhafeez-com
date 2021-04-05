@@ -22,13 +22,13 @@ While using images in our web applications, generally we don't realize that imag
 ## Types of Images
 The following are the most commonly known types of images used in web applications.
 
-1. Informative
-2. Decorative
-3. Functional
-4. Group
-5. Text-as-image
-6. Image Map
-7. Complex
+1.  [Informative](#1-informative) 
+2.  [Decorative](#2-decorative) 
+3.  [Functional](#3-functional) 
+4.  [Group](#4-group) 
+5.  [Text-as-image](#5-text-as-image) 
+6.  [Image Map](#6-image-map) 
+7.  [Complex](#7-complex) 
 
 Let's take a look at each of these types briefly and how to make images accessible in each use case.
 
@@ -68,7 +68,7 @@ For use cases like banners, the `alt` text of the image should contain the exact
 ### 6. Image Map
 If you decide to use an image map, which means a single image divided by using multiple clickable `area` elements, you should make sure that the main image has a descriptive `alt` text that explains the overall context, and then each `area` should have its own descriptive alt text.
 
-#### 7. Complex
+### 7. Complex
 These are the most tricky type of images. Graphs, charts, diagrams, bigger illustrations, maps are all examples of complex images.
 
 You will need 2 pieces of description for such images, one summarized and the other detailed.
