@@ -1,6 +1,8 @@
 ## Angular: Dependency Injection and the function of Injectors & Providers
 
-Very few, if any, are truly self-sufficient these days. That is to say, we don’t typically build or produce things for ourselves; rather, we rely on a network of producers and service providers to help us get through our day to day lives and perform many critical tasks and functions. Another name for this reliance is a dependency, and much like we have come to rely on certain services to achieve the outcomes we desire, similar types of dependencies exist in the software engineering world, and those dependencies have to be made available by some mechanism generally called Dependency Injection, and that is what I’d like to discuss today.
+Dependency is the reliance of one thing on another, to perform its tasks. In everyday life, we depend on so many things to complete our routine work. Those dependencies have to be available before we start our work, in order to start and complete it on time.
+
+Similar types of dependencies exist in the software engineering world, and those dependencies have to be made available by some mechanism generally called Dependency Injection, and that is what I’d like to discuss today.
 
 ## What is Dependency Injection?
 
